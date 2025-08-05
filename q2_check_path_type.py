@@ -1,6 +1,6 @@
 import os
 
-# Change this path to test any file/folder
+
 path = "C:\\Users\\Hp\\Desktop\\Python_Task"
 
 if os.path.exists(path):
