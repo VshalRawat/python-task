@@ -1,9 +1,7 @@
 import os
 import shutil
 
-
 reports_folder = "reports"
-
 if not os.path.exists(reports_folder):
     os.mkdir(reports_folder)
     print(f"📁 Folder '{reports_folder}' created!")
